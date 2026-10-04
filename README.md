@@ -10,8 +10,8 @@ Currently interested in **distributed systems, event-driven architecture, perfor
 
 ### A couple of things I’m proud of
 
+- ⚙️ [**Event Processing Platform**](https://github.com/Jeanty-Nassau/event-processing-platform) — .NET + Kafka reference platform for at-least-once processing, idempotency, durable retries, DLQ handling, observability, and failure testing.
 - 💍 [**Jeanty & Trinesha — Wedding Guest Experience**](https://github.com/Jeanty-Nassau/wedding-website) — built for my own wedding, then hardened into a public full-stack demo.
-- ⚙️ **Event Processing Platform** — backend engineering playground for reliability, observability, retries, and high-throughput event processing.
 
 ---
 
