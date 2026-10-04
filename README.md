@@ -15,4 +15,4 @@ Currently interested in **distributed systems, event-driven architecture, perfor
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/jeanty-nassau/) · [GitHub](https://github.com/Jeanty-Nassau)
+[Portfolio](https://jeanty-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/jeanty-nassau/) · [GitHub](https://github.com/Jeanty-Nassau)
